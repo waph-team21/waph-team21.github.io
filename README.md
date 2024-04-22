@@ -144,30 +144,21 @@ Member 4: Chakri Maddi
 - Responsible for the back-end logic for updating the database with the user's profile information.
 
 ## Screenshots:
-![pic1](images/loginpage.png)
+![pic1](images/newuserlogin.png)
 
-![pic2](images/loginpagess.png)
+![pic2](images/newuserdetailsupdatealert.png)
 
-![pic3](images/newuserdetailsupdatealert.png)
+![pic3](images/newuserregistration.png)
 
-![pic4](images/newuserregistration.png)
-
-![pic5](images/registrationform.png)
-
-![pic6](images/registrationsuccessful.png)
-
-![pic7](images/postsfromdatabase.png)
-
-![pic8](images/sessionid.png)
-
-![pic9](images/newuserlogin.png)
+![pic4](images/postsfromdatabase.png)
 
 
-![pic13](images/chnageprofilealertmessage.png)
+![pic5](images/newuserlogin.png)
 
-![pic](images/databaseafterupdaing.png)
 
-![pic](images/teamdatabasesampleworking.png)
+![pic6](images/databaseafterupdaing.png)
+
+![pic7](images/teamdatabasesampleworking.png)
 
 
 
