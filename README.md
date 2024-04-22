@@ -77,13 +77,7 @@ We have included the Index.html and aslo created the database in the repository.
 
 ### Sprint 1
 
-Duration: MM/DD/YYYY-MM/DD/YYYY
-
-#### Completed Tasks: 
-
-### Sprint x
-
-Duration: MM/DD/YYYY-MM/DD/YYYY
+Duration: 03/31/2024-04/22/2024
 
 #### Completed Tasks: 
 1. User Registration: 
@@ -101,7 +95,7 @@ Duration: MM/DD/YYYY-MM/DD/YYYY
 - Added a functionality that allows users who are logged in to alter their password.
 -Validated data on both the front and back ends for the password change form.
 - Included the logic required to update the database with the user's password.
-- 
+  
 4. Edit User Profile: 
 - Provided an option for users who are logged in to modify the details (name, extra email address, phone number) in their profiles.
 - Validated input on both the front and back ends of the edit profile form.
@@ -110,20 +104,17 @@ Duration: MM/DD/YYYY-MM/DD/YYYY
 5. View Posts:
 - Create a functionality that allows users who are signed in to access posts stored in the database.
 - Used Prepared Statements to retrieve and show the posts from the database.
--Make that the data is properly sanitized and escaped.
+- Make that the data is properly sanitized and escaped.
 
-7. Database Design and Implementation: 
+6. Database Design and Implementation: 
 - Modified the schema of the database to reflect the additional features (posts and user profiles, for example).
 - Added the modified schema and sample data to the database-data.sql file.
 
 
-
-
-
-  
 #### Contributions: 
 
 Member1: Surya Ramisetty
+
 -Implemented the function for user registration.
 - Front-end input validation was used when creating the registration form.
 -Managed the database insertion and back-end logic for user registration.
@@ -161,10 +152,6 @@ Member 4: Chakri Maddi
 ![pic7](images/teamdatabasesampleworking.png)
 
 
+## Video demonstration:
 
-#### Contributions: 
-
-1. Member 1, x commits, y hours, contributed in xxx
-2. Member 2, x commits, y hours, contributed in xxx
-3. Member 3, x commits, y hours, contributed in xxx
-4. Member 4, x commits, y hours, contributed in xxx
+[sprint1.webm](https://github.com/waph-team21/waph-team21.github.io/assets/148711687/4d16fdd1-e5f0-46e9-936d-91056923fe70)
