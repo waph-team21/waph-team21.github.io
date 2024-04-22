@@ -163,8 +163,6 @@ Member 4: Chakri Maddi
 ![pic9](images/newuserlogin.png)
 
 
-![pic12](images/changeprofiless.png)
-
 ![pic13](images/chnageprofilealertmessage.png)
 
 ![pic](images/databaseafterupdaing.png)
