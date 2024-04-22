@@ -57,19 +57,19 @@ Formatted and copied code skeleton form Lab3 to team repo waph-team21,commited t
 
 #### Screenshots:
 - Team21 Login
-![team21 login](Images/team21login.png)
+![team21 login](images/team21login.png)
 
 - Member 1
-![member1](Images/suryaindexhtml.png)
+![member1](images/suryaindexhtml.png)
 
 - Member 2
-![member2](Images/karthikindex.png)
+![member2](images/karthikindex.png)
 
 - Member 3
-![member3](Images/lokeshtesthtml.png)
+![member3](images/lokeshtesthtml.png)
 
 - Member 4
-![member4](Images/maddici-index.png)
+![member4](images/maddici-index.png)
 
 # Appendix
 
@@ -123,10 +123,56 @@ Duration: MM/DD/YYYY-MM/DD/YYYY
   
 #### Contributions: 
 
-1. Member 1, x commits, y hours, contributed in xxx
-2. Member 2, x commits, y hours, contributed in xxx
-3. Member 3, x commits, y hours, contributed in xxx
-4. Member 4, x commits, y hours, contributed in xxx
+Member1: Surya Ramisetty
+-Implemented the function for user registration.
+- Front-end input validation was used when creating the registration form.
+-Managed the database insertion and back-end logic for user registration.
+
+Member 2: Karthik Pavuluri
+- Put the user login function into place.
+- Front-end input validation was used when creating the login form.
+-Coordinated the session management and back-end logic for user authentication.
+
+Member 3: Purna Lokesh  Chimalamarri
+- Added the ability for users who are logged in to modify their passwords.
+- A front-end input validation form for changing passwords was created.
+- Managed the database's back-end logic for changing the user's password.
+
+Member 4: Chakri Maddi
+- Added the ability for logged-in users to change their user profiles.
+- Front-end input validation was used when creating the edit profile form.
+- Responsible for the back-end logic for updating the database with the user's profile information.
+
+## Screenshots:
+![pic1](images/loginpage.png)
+
+![pic2](images/loginpagess.png)
+
+![pic3](images/newuserdetailsupdatealert.png)
+
+![pic4](images/newuserregistration.png)
+
+![pic5](images/registrationform.png)
+
+![pic6](images/registrationsuccessful.png)
+
+![pic7](images/postsfromdatabase.png)
+
+![pic8](images/sessionid.png)
+
+![pic9](images/newuserlogin.png)
+
+
+![pic12](images/changeprofiless.png)
+
+![pic13](images/chnageprofilealertmessage.png)
+
+![pic](images/databaseafterupdaing.png)
+
+![pic](images/teamdatabasesampleworking.png)
+
+
+
 #### Contributions: 
 
 1. Member 1, x commits, y hours, contributed in xxx
