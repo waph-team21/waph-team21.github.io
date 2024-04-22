@@ -113,7 +113,7 @@ Duration: 03/31/2024-04/22/2024
 
 #### Contributions: 
 
-Member1: Surya Ramisetty
+Member1: Jaya Surya Ramisetty
 
 -Implemented the function for user registration.
 - Front-end input validation was used when creating the registration form.
@@ -133,6 +133,21 @@ Member 4: Chakri Maddi
 - Added the ability for logged-in users to change their user profiles.
 - Front-end input validation was used when creating the edit profile form.
 - Responsible for the back-end logic for updating the database with the user's profile information.
+
+#### Sprint Retrospection:
+
+_(Introduction to Sprint Retrospection:
+
+_Working through the sprints is a continuous improvement process. Discussing the completed sprint can improve the next sprint walk through a much more efficient one. Sprint retrospection is done once a sprint is finished and the team is ready to start another sprint planning meeting. This discussion can take up to 1 hour depending on the ideal team size of 4 members. 
+Discussing good things that happened during the sprint can improve the team's morale, good team collaboration, appreciating someone who did a fantastic job solving a blocker issue, work well-organized, and helping someone in need. This will improve the team's confidence and keep them motivated.
+As a team, we can discuss what has gone wrong during the sprint and come up with improvement points for the next sprints. Few points can be like, need to manage time well, need to prioritize the tasks properly and finish a task in time, incorrect design lead to multiple reviews and that wasted time during the sprint, team meetings were too long which consumed most of the effective work hours. We can mention every problem is in the sprint which is hindering the progress.
+Finally, this meeting should improve your next sprint drastically and understand the team dynamics well. Mention the bullet points and discuss how to solve it.)_
+
+| Good     |   Could have been better    |  How to improve?  |
+|----------|:---------------------------:|------------------:|
+|Excellent and new understanding of csrf implementation,as well as excellent teamwork|Need to work on styling                             |                   |
+
+
 
 ## Screenshots:
 ![pic1](images/newuserlogin.png)
