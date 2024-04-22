@@ -156,7 +156,7 @@ Member 4: Chakri Maddi
 ![pic5](images/newuserlogin.png)
 
 
-![pic6](images/databaseafterupdaing.png)
+![pic6](images/databaseafterupdating.png)
 
 ![pic7](images/teamdatabasesampleworking.png)
 
