@@ -214,7 +214,7 @@ To stop SQL injection, it makes advantage of prepared statements ($stmt->bind_pa
 The code contains the information about the database connection (localhost, team21, Pa$$w0rd,waph_team21).
 
 -A team project website
-[A team project website](https://waph-team21.github.io/form.php)
+[A team project website](https://waph-team21.github.io/)
 (https://waph-team21.minifacebook.com)
 
 
