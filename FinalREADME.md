@@ -69,3 +69,8 @@ Project homepage (public): (https://github.com/waph-team21/waph-team21.github.io
 ![p](images/final11.png)
 ![p](images/final11-1.png)
 ![p](images/final11-2.png)
+
+# Security and Non-Functional Requirements: 
+
+- the system must be deployed on HTTPS:
+  ![p](images/sf1.png)
