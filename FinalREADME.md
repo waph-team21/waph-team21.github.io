@@ -54,6 +54,7 @@ Project homepage (public): (https://github.com/waph-team21/waph-team21.github.io
 - Superusers can:
 - Login (with the account added directly in the database):
   ![p](images/final9.png)
+  ![p](images/final10-3.png)
   ![p](images/final9-1.png)
 
 -View the list of registered users.:
